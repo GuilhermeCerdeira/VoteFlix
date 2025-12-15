@@ -8,3 +8,7 @@ data/
 *.db
 
 SistemasDistribuidos/Oracle_JDK-24/
+
+*:Zone.Identifier
+
+javafx-lib/
