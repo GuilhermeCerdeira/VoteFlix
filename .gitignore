@@ -1,0 +1,10 @@
+bin/
+*.class
+
+lib/
+*.jar
+
+data/
+*.db
+
+SistemasDistribuidos/Oracle_JDK-24/
